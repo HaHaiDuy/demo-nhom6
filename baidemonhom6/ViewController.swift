@@ -10,7 +10,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    let j = ("banana") // duy .duong. hoang
+    let t = ("banana") // duy .duong. hoang. tan
     override func viewDidLoad() {
         
         super.viewDidLoad()
